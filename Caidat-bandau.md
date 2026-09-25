@@ -1,17 +1,10 @@
 # Làm LINE bot
 
-<aside>
-⚠️
+> ⚠️ **Lưu ý:**
+> Các loại tin nhắn gửi tự động, thông báo chung, gửi định kỳ sẽ bị giới hạn 500 tin/tháng
+> Các loại tin nhắn trả lời theo yêu cầu thì không giới hạn
+> Một nhóm chỉ cho 1 Line OA tham gia
 
-Lưu ý:
-
-Các loại tin nhắn gửi tự động, thông báo chung, gửi định kỳ sẽ bị giới hạn 500 tin/tháng
-
-Các loại tin nhắn trả lời theo yêu cầu thì không giới hạn
-
-Một nhóm chỉ cho 1 Line OA tham gia
-
-</aside>
 
 Vào trang [https://account.line.biz/login](https://account.line.biz/login) đăng nhập Line của mình để tạo LineOA
 
